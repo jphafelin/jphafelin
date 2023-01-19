@@ -11,7 +11,7 @@
 ## Estudiando Full Stack Developer en [4Geeks Academy](https://4geeks.com/)💪
 > ### Mis Proyectos ⚙
 > * [HTML Básico](#)
-> * [Bootstrap](https://github.com/jphafelin/Instagram-Feed-con-Bootstrap)
+> * [Bootstrap](https://github.com/jphafelin/Instagram-Feed-with-Bootstrap)
 > * [Línea de Comandos](https://github.com/jphafelin/comand-line)
 > * [HTML Forms](https://github.com/jphafelin/HTML-Forms)
 
