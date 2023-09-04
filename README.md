@@ -34,7 +34,7 @@
 
 
 ## Otros proyectos
-> * [Sistema para asignación de bots](https://github.com/jphafelin/botsjph)https://github.com/jphafelin/botsjph)
+> * [Sistema para asignación de bots](https://github.com/jphafelin/botsjph)
 
 
 
