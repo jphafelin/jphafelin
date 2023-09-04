@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" style="max-width: 100%;">
 </div>
 <br/>
-Descripción
+
 
 
 ## Trabajando actualmente en un [proyecto](https://github.com/jphafelin/botsjph)💪
@@ -31,6 +31,10 @@ Descripción
 
 > ### Proyecto Final 🏁
 > * [RutGreen](https://github.com/jphafelin/Rut-Green)
+
+
+## Otros proyectos
+> * [Sistema para asignación de bots]([#](https://github.com/jphafelin/botsjph)https://github.com/jphafelin/botsjph)
 
 
 
